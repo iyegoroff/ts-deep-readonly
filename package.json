@@ -1,0 +1,27 @@
+{
+  "name": "ts-deep-readonly",
+  "version": "0.0.0",
+  "description": "DeepReadonly type",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "tsc index.d.ts --lib es2015"
+  },
+  "author": "iyegoroff <iegoroff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyegoroff/use-backlash/issues"
+  },
+  "homepage": "https://github.com/iyegoroff/use-backlash#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyegoroff/use-backlash.git"
+  },
+  "keywords": [
+    "type",
+    "deep-readonly"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
